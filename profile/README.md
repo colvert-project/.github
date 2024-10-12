@@ -1,1 +1,3 @@
-Welcome to Colvert Project workspace
+# Colvert Project Workspace
+
+Go to the main repository [Colvert](https://github.com/colvert-project/colvert) for all details.
