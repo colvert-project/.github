@@ -10,14 +10,17 @@ Manage your portfolio of detection use cases with the possibility to document an
 Go to the main repository [Colvert](https://github.com/colvert-project/colvert) for all details.
 
 * Website: <https://colvert.io>
+* Documentation: <https://docs.colvert.io>
 * Contact: contact@colvert.io
 
 ## Interesting Places
 
-[Releases](https://github.com/colvert-project/colvert/releases) / 
-[Discussions](https://github.com/colvert-project/colvert/discussions) / 
-[Issues](https://github.com/colvert-project/colvert/issues) / 
-[Security](https://github.com/colvert-project/colvert/security)
+[Last Release](https://github.com/colvert-project/colvert/releases/latest) / 
+[Packages](https://github.com/orgs/colvert-project/packages) / 
+[Discussions](https://github.com/orgs/colvert-project/discussions) / 
+[Issues Tracker](https://github.com/colvert-project/colvert/issues) / 
+[Security Policy](https://github.com/colvert-project/colvert/security/policy) / 
+[Security Advisories](https://github.com/colvert-project/colvert/security/advisories)
 
 ## Contributing
 
