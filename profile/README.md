@@ -5,9 +5,7 @@
 
 **Colvert** - The Detection Use Case Management Tool.
 
-Manage your portfolio of detection use cases with the possibility to document and follow-up use cases development, improvement and implementation; testing status; risk coverage compared to well-known security threats based on multiple contextual data sources; related preventive controls; and instructions for analysts triage, qualification, and correlation as playbooks and Standard Operating Procedures (SOPs).
-
-Go to the main repository [Colvert](https://github.com/colvert-project/colvert) for all details.
+Go to the main repository [**Colvert**](https://github.com/colvert-project/colvert) for all details.
 
 * Website: <https://colvert.io>
 * Documentation: <https://docs.colvert.io>
