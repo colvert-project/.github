@@ -9,7 +9,7 @@ Go to the main repository [**Colvert**](https://github.com/colvert-project/colve
 
 * Website: <https://colvert.io>
 * Documentation: <https://docs.colvert.io>
-* Contact: contact@colvert.io
+* Contact: <contact@colvert.io>
 
 ## Interesting Places
 
