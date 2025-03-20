@@ -23,4 +23,4 @@ Go to the main repository [**Colvert**](https://github.com/colvert-project/colve
 ## Contributing
 
 [How to contribute?](https://github.com/colvert-project/colvert/blob/main/CONTRIBUTING.md) / 
-[Colvert Contributor Code of Conduct](https://github.com/colvert-project/colvert/blob/main/CODE_OF_CONDUCT.md)
+[Colvert Contributor Code of Conduct](https://github.com/colvert-project/colvert?tab=coc-ov-file)
