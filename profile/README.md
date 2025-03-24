@@ -7,8 +7,8 @@
 
 Go to the main repository [**Colvert**](https://github.com/colvert-project/colvert) for all details.
 
-* Website: <https://colvert.io>
-* Documentation: <https://docs.colvert.io>
+* Website: <https://colvert.io/>
+* Documentation: <https://docs.colvert.io/>
 * Contact: <contact@colvert.io>
 
 ## Interesting Places
